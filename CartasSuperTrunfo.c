@@ -18,7 +18,7 @@ int main() {
 
     // Criando interação com o Usuario
  
-    printf("Soper Trinfo - Estados \n");
+    printf("Super Trinfo - Estados \n");
     printf("Informe a População da carta A01: \n" );
     scanf("%d", &populacaoCarta1);
     printf("Informe o tamanho da Area de sua carta: \n");
